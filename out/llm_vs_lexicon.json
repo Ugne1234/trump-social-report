@@ -1,0 +1,174 @@
+{
+ "lexicon": {
+  "P": 0.7004608294930875,
+  "R": 0.6229508196721312,
+  "F1": 0.6594360086767896,
+  "tp": 152,
+  "fp": 65,
+  "fn": 92
+ },
+ "llm": {
+  "P": 0.9218106995884774,
+  "R": 0.9180327868852459,
+  "F1": 0.9199178644763861,
+  "tp": 224,
+  "fp": 19,
+  "fn": 20
+ },
+ "by_theme": [
+  {
+   "theme": "Immigration & border",
+   "hand": 7,
+   "lex_F1": 0.75,
+   "llm_F1": 0.9333,
+   "lex_R": 0.8571,
+   "llm_R": 1.0,
+   "lex_P": 0.6667,
+   "llm_P": 0.875
+  },
+  {
+   "theme": "Economy, jobs & prices",
+   "hand": 26,
+   "lex_F1": 0.6957,
+   "llm_F1": 0.96,
+   "lex_R": 0.6154,
+   "llm_R": 0.9231,
+   "lex_P": 0.8,
+   "llm_P": 1.0
+  },
+  {
+   "theme": "Elections & fraud claims",
+   "hand": 34,
+   "lex_F1": 0.5667,
+   "llm_F1": 0.8889,
+   "lex_R": 0.5,
+   "llm_R": 0.9412,
+   "lex_P": 0.6538,
+   "llm_P": 0.8421
+  },
+  {
+   "theme": "Legal fights & 'witch hunt'",
+   "hand": 26,
+   "lex_F1": 0.7308,
+   "llm_F1": 0.9804,
+   "lex_R": 0.7308,
+   "llm_R": 0.9615,
+   "lex_P": 0.7308,
+   "llm_P": 1.0
+  },
+  {
+   "theme": "Attacks on media",
+   "hand": 19,
+   "lex_F1": 0.6857,
+   "llm_F1": 0.9744,
+   "lex_R": 0.6316,
+   "llm_R": 1.0,
+   "lex_P": 0.75,
+   "llm_P": 0.95
+  },
+  {
+   "theme": "Attacks on opponents",
+   "hand": 50,
+   "lex_F1": 0.8,
+   "llm_F1": 0.902,
+   "lex_R": 0.76,
+   "llm_R": 0.92,
+   "lex_P": 0.8444,
+   "llm_P": 0.8846
+  },
+  {
+   "theme": "Foreign policy & war",
+   "hand": 19,
+   "lex_F1": 0.6857,
+   "llm_F1": 0.8718,
+   "lex_R": 0.6316,
+   "llm_R": 0.8947,
+   "lex_P": 0.75,
+   "llm_P": 0.85
+  },
+  {
+   "theme": "Crime & law and order",
+   "hand": 9,
+   "lex_F1": 0.5714,
+   "llm_F1": 1.0,
+   "lex_R": 0.6667,
+   "llm_R": 1.0,
+   "lex_P": 0.5,
+   "llm_P": 1.0
+  },
+  {
+   "theme": "Faith, values & culture war",
+   "hand": 2,
+   "lex_F1": 0.2857,
+   "llm_F1": 0.6667,
+   "lex_R": 0.5,
+   "llm_R": 0.5,
+   "lex_P": 0.2,
+   "llm_P": 1.0
+  },
+  {
+   "theme": "MAGA identity & movement",
+   "hand": 2,
+   "lex_F1": 0.0,
+   "llm_F1": 0.0,
+   "lex_R": 0.0,
+   "llm_R": 0.0,
+   "lex_P": 0.0,
+   "llm_P": 0.0
+  },
+  {
+   "theme": "Endorsements",
+   "hand": 9,
+   "lex_F1": 0.8235,
+   "llm_F1": 0.9474,
+   "lex_R": 0.7778,
+   "llm_R": 1.0,
+   "lex_P": 0.875,
+   "llm_P": 0.9
+  },
+  {
+   "theme": "Rallies & crowds",
+   "hand": 8,
+   "lex_F1": 0.6154,
+   "llm_F1": 1.0,
+   "lex_R": 0.5,
+   "llm_R": 1.0,
+   "lex_P": 0.8,
+   "llm_P": 1.0
+  },
+  {
+   "theme": "Health, MAHA & COVID",
+   "hand": 6,
+   "lex_F1": 0.4,
+   "llm_F1": 0.9091,
+   "lex_R": 0.3333,
+   "llm_R": 0.8333,
+   "lex_P": 0.5,
+   "llm_P": 1.0
+  },
+  {
+   "theme": "Tech, crypto & new media",
+   "hand": 4,
+   "lex_F1": 0.4,
+   "llm_F1": 0.8571,
+   "lex_R": 0.25,
+   "llm_R": 0.75,
+   "lex_P": 1.0,
+   "llm_P": 1.0
+  },
+  {
+   "theme": "Celebrity & business",
+   "hand": 23,
+   "lex_F1": 0.5789,
+   "llm_F1": 0.8837,
+   "lex_R": 0.4783,
+   "llm_R": 0.8261,
+   "lex_P": 0.7333,
+   "llm_P": 0.95
+  }
+ ],
+ "exact": {
+  "lexicon": 0.48,
+  "llm": 0.83
+ }
+}

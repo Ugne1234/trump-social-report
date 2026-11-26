@@ -1,0 +1,105 @@
+{
+ "n": 600,
+ "agreement": [
+  {
+   "theme": "Foreign policy & war",
+   "llm_n": 69,
+   "lexicon_n": 59,
+   "both": 43,
+   "lexicon_precision_vs_llm": 0.73,
+   "lexicon_recall_vs_llm": 0.62
+  },
+  {
+   "theme": "Economy, jobs & prices",
+   "llm_n": 56,
+   "lexicon_n": 58,
+   "both": 37,
+   "lexicon_precision_vs_llm": 0.64,
+   "lexicon_recall_vs_llm": 0.66
+  },
+  {
+   "theme": "Attacks on opponents",
+   "llm_n": 192,
+   "lexicon_n": 168,
+   "both": 141,
+   "lexicon_precision_vs_llm": 0.84,
+   "lexicon_recall_vs_llm": 0.73
+  },
+  {
+   "theme": "Endorsements",
+   "llm_n": 47,
+   "lexicon_n": 41,
+   "both": 40,
+   "lexicon_precision_vs_llm": 0.98,
+   "lexicon_recall_vs_llm": 0.85
+  }
+ ],
+ "models": [
+  {
+   "theme": "Foreign policy & war",
+   "full_lexicon_pct": 15.2,
+   "sub_lexicon_pct": 21.4,
+   "sub_lexicon_ci": [
+    5.0,
+    41.0
+   ],
+   "sub_llm_pct": 23.6,
+   "sub_llm_ci": [
+    8.0,
+    41.0
+   ],
+   "sub_llm_p": 0.002
+  },
+  {
+   "theme": "Economy, jobs & prices",
+   "full_lexicon_pct": 4.1,
+   "sub_lexicon_pct": -1.2,
+   "sub_lexicon_ci": [
+    -16.0,
+    16.0
+   ],
+   "sub_llm_pct": 2.3,
+   "sub_llm_ci": [
+    -10.0,
+    17.0
+   ],
+   "sub_llm_p": 0.731
+  },
+  {
+   "theme": "Attacks on opponents",
+   "full_lexicon_pct": 3.8,
+   "sub_lexicon_pct": 1.1,
+   "sub_lexicon_ci": [
+    -8.0,
+    11.0
+   ],
+   "sub_llm_pct": 2.6,
+   "sub_llm_ci": [
+    -7.0,
+    13.0
+   ],
+   "sub_llm_p": 0.585
+  },
+  {
+   "theme": "Endorsements",
+   "full_lexicon_pct": -56.6,
+   "sub_lexicon_pct": -68.5,
+   "sub_lexicon_ci": [
+    -77.0,
+    -56.0
+   ],
+   "sub_llm_pct": -63.5,
+   "sub_llm_ci": [
+    -73.0,
+    -50.0
+   ],
+   "sub_llm_p": 0.0
+  }
+ ],
+ "llm_lift_vs_rest": {
+  "Foreign policy & war": 1.34,
+  "Economy, jobs & prices": 1.21,
+  "Attacks on opponents": 1.14,
+  "Endorsements": 0.4
+ }
+}

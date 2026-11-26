@@ -1,0 +1,90 @@
+{
+ "rows": [
+  {
+   "term": "Style: exclamation (any)",
+   "Likes": 27.0,
+   "Likes, extreme lows dropped": 20.6,
+   "Shares": 16.7,
+   "Replies": 41.4,
+   "All engagement": 25.5
+  },
+  {
+   "term": "Style: insult / nickname",
+   "Likes": 9.0,
+   "Likes, extreme lows dropped": 8.4,
+   "Shares": 11.7,
+   "Replies": 31.9,
+   "All engagement": 10.4
+  },
+  {
+   "term": "Theme: Foreign policy & war",
+   "Likes": 15.2,
+   "Likes, extreme lows dropped": 13.5,
+   "Shares": 16.1,
+   "Replies": 24.1,
+   "All engagement": 16.0
+  },
+  {
+   "term": "Theme: Economy, jobs & prices",
+   "Likes": 4.1,
+   "Likes, extreme lows dropped": 3.1,
+   "Shares": 4.3,
+   "Replies": 3.3,
+   "All engagement": 4.2
+  },
+  {
+   "term": "Theme: Attacks on opponents",
+   "Likes": 3.8,
+   "Likes, extreme lows dropped": 2.1,
+   "Shares": 9.0,
+   "Replies": 16.5,
+   "All engagement": 5.3
+  },
+  {
+   "term": "Theme: Endorsements",
+   "Likes": -56.6,
+   "Likes, extreme lows dropped": -49.2,
+   "Shares": -57.5,
+   "Replies": -83.4,
+   "All engagement": -58.2
+  },
+  {
+   "term": "Format: link only (no comment)",
+   "Likes": -21.2,
+   "Likes, extreme lows dropped": -21.9,
+   "Shares": -23.1,
+   "Replies": -41.8,
+   "All engagement": -22.2
+  },
+  {
+   "term": "Format: contains link",
+   "Likes": -12.8,
+   "Likes, extreme lows dropped": -15.9,
+   "Shares": -10.1,
+   "Replies": -17.3,
+   "All engagement": -12.6
+  }
+ ],
+ "corr": {
+  "Shares": 0.97,
+  "Replies": 0.96,
+  "All engagement": 1.0
+ },
+ "device": {
+  "window": "16 Jun 2015 \u2013 28 Feb 2017, Twitter",
+  "android": {
+   "n": 2083,
+   "lift": 1.24,
+   "insult": 0.146,
+   "excl": 0.722
+  },
+  "iphone": {
+   "n": 2196,
+   "lift": 0.95,
+   "insult": 0.053,
+   "excl": 0.617
+  },
+  "excl_effect_alone": 6.7,
+  "excl_effect_with_device": 3.5
+ }
+}

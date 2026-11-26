@@ -1,0 +1,4140 @@
+{
+ "counts": {
+  "Truth Social": {
+   "Link only": 5705,
+   "Media only": 5935,
+   "Original": 14161,
+   "Quote-post": 1573,
+   "Quoted fan": 0,
+   "Reply": 0,
+   "Repost": 5380
+  },
+  "Twitter": {
+   "Link only": 0,
+   "Media only": 0,
+   "Original": 32813,
+   "Quote-post": 0,
+   "Quoted fan": 9937,
+   "Reply": 3944,
+   "Repost": 9877
+  }
+ },
+ "n_capture_error": 14,
+ "n_zero_likes": 898,
+ "n_scored": 59566,
+ "n_scored_political": 48260,
+ "monthly_likes": [
+  {
+   "platform": "Truth Social",
+   "month": "2022-04",
+   "median_likes": 92053.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-05",
+   "median_likes": 34343.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-06",
+   "median_likes": 27058.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-07",
+   "median_likes": 18793.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-08",
+   "median_likes": 23765.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-09",
+   "median_likes": 18890.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-10",
+   "median_likes": 16703.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-11",
+   "median_likes": 18958.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-12",
+   "median_likes": 16389.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-01",
+   "median_likes": 17219.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-02",
+   "median_likes": 16767.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-03",
+   "median_likes": 14702.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-04",
+   "median_likes": 16862.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-05",
+   "median_likes": 15027.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-06",
+   "median_likes": 15066.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-07",
+   "median_likes": 12885.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-08",
+   "median_likes": 12847.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-09",
+   "median_likes": 10913.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-10",
+   "median_likes": 11754.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-11",
+   "median_likes": 10204.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-12",
+   "median_likes": 8765.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-01",
+   "median_likes": 9099.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-02",
+   "median_likes": 9612.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-03",
+   "median_likes": 11473.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-04",
+   "median_likes": 11926.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-05",
+   "median_likes": 11247.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-06",
+   "median_likes": 11377.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-07",
+   "median_likes": 15927.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-08",
+   "median_likes": 13475.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-09",
+   "median_likes": 11772.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-10",
+   "median_likes": 12509.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-11",
+   "median_likes": 21746.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-12",
+   "median_likes": 17232.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-01",
+   "median_likes": 22221.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-02",
+   "median_likes": 22717.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-03",
+   "median_likes": 6201.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-04",
+   "median_likes": 6428.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-05",
+   "median_likes": 5408.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-06",
+   "median_likes": 8731.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-07",
+   "median_likes": 7476.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-08",
+   "median_likes": 17529.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-09",
+   "median_likes": 22440.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-10",
+   "median_likes": 18966.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-11",
+   "median_likes": 14084.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-12",
+   "median_likes": 13552.5
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2026-01",
+   "median_likes": 15827.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2026-02",
+   "median_likes": 12385.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2026-03",
+   "median_likes": 15920.0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2026-04",
+   "median_likes": 17599.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-01",
+   "median_likes": 77.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-02",
+   "median_likes": 54.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-03",
+   "median_likes": 31.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-04",
+   "median_likes": 52.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-05",
+   "median_likes": 68.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-06",
+   "median_likes": 79.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-07",
+   "median_likes": 73.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-08",
+   "median_likes": 80.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-09",
+   "median_likes": 100.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-10",
+   "median_likes": 83.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-11",
+   "median_likes": 186.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-12",
+   "median_likes": 141.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-01",
+   "median_likes": 102.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-02",
+   "median_likes": 101.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-03",
+   "median_likes": 123.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-04",
+   "median_likes": 57.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-05",
+   "median_likes": 112.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-06",
+   "median_likes": 78.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-07",
+   "median_likes": 109.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-08",
+   "median_likes": 181.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-09",
+   "median_likes": 117.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-10",
+   "median_likes": 173.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-11",
+   "median_likes": 80.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-12",
+   "median_likes": 79.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-01",
+   "median_likes": 62.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-02",
+   "median_likes": 107.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-03",
+   "median_likes": 61.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-04",
+   "median_likes": 78.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-05",
+   "median_likes": 113.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-06",
+   "median_likes": 234.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-07",
+   "median_likes": 901.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-08",
+   "median_likes": 2796.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-09",
+   "median_likes": 2641.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-10",
+   "median_likes": 1986.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-11",
+   "median_likes": 2847.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-12",
+   "median_likes": 3936.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-01",
+   "median_likes": 4637.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-02",
+   "median_likes": 6897.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-03",
+   "median_likes": 12160.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-04",
+   "median_likes": 11319.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-05",
+   "median_likes": 13110.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-06",
+   "median_likes": 13855.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-07",
+   "median_likes": 20542.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-08",
+   "median_likes": 18045.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-09",
+   "median_likes": 19483.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-10",
+   "median_likes": 19616.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-11",
+   "median_likes": 40778.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-12",
+   "median_likes": 51313.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-01",
+   "median_likes": 72517.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-02",
+   "median_likes": 87944.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-03",
+   "median_likes": 68053.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-04",
+   "median_likes": 52318.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-05",
+   "median_likes": 53767.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-06",
+   "median_likes": 68767.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-07",
+   "median_likes": 69754.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-08",
+   "median_likes": 66755.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-09",
+   "median_likes": 58343.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-10",
+   "median_likes": 58627.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-11",
+   "median_likes": 61192.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-12",
+   "median_likes": 74639.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-01",
+   "median_likes": 90242.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-02",
+   "median_likes": 82745.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-03",
+   "median_likes": 71563.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-04",
+   "median_likes": 76820.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-05",
+   "median_likes": 73719.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-06",
+   "median_likes": 71283.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-07",
+   "median_likes": 74900.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-08",
+   "median_likes": 68687.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-09",
+   "median_likes": 62521.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-10",
+   "median_likes": 62451.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-11",
+   "median_likes": 73829.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-12",
+   "median_likes": 83457.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-01",
+   "median_likes": 99272.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-02",
+   "median_likes": 99470.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-03",
+   "median_likes": 82708.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-04",
+   "median_likes": 79182.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-05",
+   "median_likes": 72408.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-06",
+   "median_likes": 72594.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-07",
+   "median_likes": 75857.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-08",
+   "median_likes": 66065.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-09",
+   "median_likes": 57271.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-10",
+   "median_likes": 61380.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-11",
+   "median_likes": 59255.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-12",
+   "median_likes": 66871.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-01",
+   "median_likes": 83215.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-02",
+   "median_likes": 77521.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-03",
+   "median_likes": 76044.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-04",
+   "median_likes": 91827.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-05",
+   "median_likes": 76578.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-06",
+   "median_likes": 92762.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-07",
+   "median_likes": 100633.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-08",
+   "median_likes": 71338.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-09",
+   "median_likes": 62259.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-10",
+   "median_likes": 82912.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-11",
+   "median_likes": 164947.0
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-12",
+   "median_likes": 166412.5
+  },
+  {
+   "platform": "Twitter",
+   "month": "2021-01",
+   "median_likes": 186498.0
+  }
+ ],
+ "monthly_posts": [
+  {
+   "platform": "Truth Social",
+   "month": "2022-02",
+   "n": 1
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-03",
+   "n": 0
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-04",
+   "n": 8
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-05",
+   "n": 284
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-06",
+   "n": 256
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-07",
+   "n": 354
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-08",
+   "n": 555
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-09",
+   "n": 582
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-10",
+   "n": 593
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-11",
+   "n": 642
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2022-12",
+   "n": 614
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-01",
+   "n": 655
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-02",
+   "n": 563
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-03",
+   "n": 792
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-04",
+   "n": 593
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-05",
+   "n": 649
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-06",
+   "n": 768
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-07",
+   "n": 907
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-08",
+   "n": 1109
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-09",
+   "n": 983
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-10",
+   "n": 929
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-11",
+   "n": 899
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2023-12",
+   "n": 1058
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-01",
+   "n": 1351
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-02",
+   "n": 920
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-03",
+   "n": 1038
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-04",
+   "n": 877
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-05",
+   "n": 1012
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-06",
+   "n": 809
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-07",
+   "n": 695
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-08",
+   "n": 1167
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-09",
+   "n": 959
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-10",
+   "n": 974
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-11",
+   "n": 359
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2024-12",
+   "n": 426
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-01",
+   "n": 442
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-02",
+   "n": 504
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-03",
+   "n": 638
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-04",
+   "n": 461
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-05",
+   "n": 515
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-06",
+   "n": 504
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-07",
+   "n": 613
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-08",
+   "n": 570
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-09",
+   "n": 415
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-10",
+   "n": 482
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-11",
+   "n": 609
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2025-12",
+   "n": 476
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2026-01",
+   "n": 606
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2026-02",
+   "n": 555
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2026-03",
+   "n": 538
+  },
+  {
+   "platform": "Truth Social",
+   "month": "2026-04",
+   "n": 445
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-01",
+   "n": 721
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-02",
+   "n": 893
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-03",
+   "n": 826
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-04",
+   "n": 902
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-05",
+   "n": 781
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-06",
+   "n": 463
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-07",
+   "n": 865
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-08",
+   "n": 716
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-09",
+   "n": 673
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-10",
+   "n": 558
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-11",
+   "n": 377
+  },
+  {
+   "platform": "Twitter",
+   "month": "2013-12",
+   "n": 369
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-01",
+   "n": 358
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-02",
+   "n": 284
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-03",
+   "n": 377
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-04",
+   "n": 512
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-05",
+   "n": 364
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-06",
+   "n": 748
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-07",
+   "n": 468
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-08",
+   "n": 334
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-09",
+   "n": 497
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-10",
+   "n": 609
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-11",
+   "n": 574
+  },
+  {
+   "platform": "Twitter",
+   "month": "2014-12",
+   "n": 659
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-01",
+   "n": 1119
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-02",
+   "n": 468
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-03",
+   "n": 404
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-04",
+   "n": 798
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-05",
+   "n": 707
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-06",
+   "n": 529
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-07",
+   "n": 790
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-08",
+   "n": 355
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-09",
+   "n": 409
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-10",
+   "n": 790
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-11",
+   "n": 576
+  },
+  {
+   "platform": "Twitter",
+   "month": "2015-12",
+   "n": 591
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-01",
+   "n": 492
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-02",
+   "n": 494
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-03",
+   "n": 441
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-04",
+   "n": 284
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-05",
+   "n": 351
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-06",
+   "n": 303
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-07",
+   "n": 378
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-08",
+   "n": 325
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-09",
+   "n": 296
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-10",
+   "n": 530
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-11",
+   "n": 193
+  },
+  {
+   "platform": "Twitter",
+   "month": "2016-12",
+   "n": 138
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-01",
+   "n": 214
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-02",
+   "n": 154
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-03",
+   "n": 147
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-04",
+   "n": 152
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-05",
+   "n": 155
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-06",
+   "n": 212
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-07",
+   "n": 245
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-08",
+   "n": 267
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-09",
+   "n": 306
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-10",
+   "n": 290
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-11",
+   "n": 261
+  },
+  {
+   "platform": "Twitter",
+   "month": "2017-12",
+   "n": 199
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-01",
+   "n": 205
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-02",
+   "n": 175
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-03",
+   "n": 171
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-04",
+   "n": 257
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-05",
+   "n": 259
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-06",
+   "n": 386
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-07",
+   "n": 336
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-08",
+   "n": 380
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-09",
+   "n": 383
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-10",
+   "n": 384
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-11",
+   "n": 338
+  },
+  {
+   "platform": "Twitter",
+   "month": "2018-12",
+   "n": 294
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-01",
+   "n": 369
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-02",
+   "n": 249
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-03",
+   "n": 405
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-04",
+   "n": 431
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-05",
+   "n": 692
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-06",
+   "n": 487
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-07",
+   "n": 692
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-08",
+   "n": 690
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-09",
+   "n": 797
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-10",
+   "n": 1018
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-11",
+   "n": 862
+  },
+  {
+   "platform": "Twitter",
+   "month": "2019-12",
+   "n": 1126
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-01",
+   "n": 964
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-02",
+   "n": 899
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-03",
+   "n": 970
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-04",
+   "n": 840
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-05",
+   "n": 1121
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-06",
+   "n": 1119
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-07",
+   "n": 869
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-08",
+   "n": 1121
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-09",
+   "n": 1363
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-10",
+   "n": 1415
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-11",
+   "n": 912
+  },
+  {
+   "platform": "Twitter",
+   "month": "2020-12",
+   "n": 643
+  },
+  {
+   "platform": "Twitter",
+   "month": "2021-01",
+   "n": 156
+  }
+ ],
+ "eras": [
+  {
+   "era": "Celebrity (2009\u2013mid 2015)",
+   "posts": 22155,
+   "days": 2234,
+   "repost_share": 0.0011,
+   "media_or_link_share": 0.0,
+   "posts_per_day": 9.9172,
+   "median_likes": 63.0,
+   "caps_share": 0.0166,
+   "insult_share": 0.0388,
+   "median_words": 17.0,
+   "exclaim_share": 0.2825
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "posts": 8177,
+   "days": 584,
+   "repost_share": 0.0241,
+   "media_or_link_share": 0.0,
+   "posts_per_day": 14.0017,
+   "median_likes": 8916.0,
+   "caps_share": 0.0458,
+   "insult_share": 0.089,
+   "median_words": 17.0,
+   "exclaim_share": 0.6118
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "posts": 26239,
+   "days": 1450,
+   "repost_share": 0.368,
+   "media_or_link_share": 0.0,
+   "posts_per_day": 18.0959,
+   "median_likes": 74814.5,
+   "caps_share": 0.0646,
+   "insult_share": 0.0834,
+   "median_words": 24.0,
+   "exclaim_share": 0.7012
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "posts": 24658,
+   "days": 1071,
+   "repost_share": 0.2051,
+   "media_or_link_share": 0.3452,
+   "posts_per_day": 23.0233,
+   "median_likes": 13188.5,
+   "caps_share": 0.1924,
+   "insult_share": 0.1622,
+   "median_words": 31.0,
+   "exclaim_share": 0.7087
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "posts": 8096,
+   "days": 458,
+   "repost_share": 0.0399,
+   "media_or_link_share": 0.3862,
+   "posts_per_day": 17.6769,
+   "median_likes": 13216.5,
+   "caps_share": 0.1297,
+   "insult_share": 0.1212,
+   "median_words": 46.0,
+   "exclaim_share": 0.7551
+  }
+ ],
+ "theme_platform": [
+  {
+   "platform": "Truth Social",
+   "theme": "Immigration & border",
+   "n": 884,
+   "share": 0.0625,
+   "median_lift_x": 1.4755,
+   "mean_lift_x": 1.4606,
+   "lift_vs_rest": 1.2134
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Economy, jobs & prices",
+   "n": 1161,
+   "share": 0.0821,
+   "median_lift_x": 1.4244,
+   "mean_lift_x": 1.4214,
+   "lift_vs_rest": 1.1828
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Elections & fraud claims",
+   "n": 2350,
+   "share": 0.1661,
+   "median_lift_x": 1.4158,
+   "mean_lift_x": 1.3992,
+   "lift_vs_rest": 1.1806
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Legal fights & 'witch hunt'",
+   "n": 2292,
+   "share": 0.162,
+   "median_lift_x": 1.4188,
+   "mean_lift_x": 1.3908,
+   "lift_vs_rest": 1.1712
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Attacks on media",
+   "n": 951,
+   "share": 0.0672,
+   "median_lift_x": 1.3939,
+   "mean_lift_x": 1.3583,
+   "lift_vs_rest": 1.1237
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Attacks on opponents",
+   "n": 3769,
+   "share": 0.2665,
+   "median_lift_x": 1.4078,
+   "mean_lift_x": 1.4055,
+   "lift_vs_rest": 1.2151
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Foreign policy & war",
+   "n": 1185,
+   "share": 0.0838,
+   "median_lift_x": 1.5552,
+   "mean_lift_x": 1.5324,
+   "lift_vs_rest": 1.2844
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Crime & law and order",
+   "n": 1155,
+   "share": 0.0817,
+   "median_lift_x": 1.4634,
+   "mean_lift_x": 1.4577,
+   "lift_vs_rest": 1.2157
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Faith, values & culture war",
+   "n": 384,
+   "share": 0.0271,
+   "median_lift_x": 1.4852,
+   "mean_lift_x": 1.4672,
+   "lift_vs_rest": 1.2105
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "MAGA identity & movement",
+   "n": 1736,
+   "share": 0.1227,
+   "median_lift_x": 1.4917,
+   "mean_lift_x": 1.4623,
+   "lift_vs_rest": 1.2313
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Endorsements",
+   "n": 1073,
+   "share": 0.0759,
+   "median_lift_x": 0.706,
+   "mean_lift_x": 0.6074,
+   "lift_vs_rest": 0.4709
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Rallies & crowds",
+   "n": 354,
+   "share": 0.025,
+   "median_lift_x": 1.1353,
+   "mean_lift_x": 1.1533,
+   "lift_vs_rest": 0.9452
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Health, MAHA & COVID",
+   "n": 137,
+   "share": 0.0097,
+   "median_lift_x": 1.2619,
+   "mean_lift_x": 1.2938,
+   "lift_vs_rest": 1.0625
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Tech, crypto & new media",
+   "n": 232,
+   "share": 0.0164,
+   "median_lift_x": 1.434,
+   "mean_lift_x": 1.433,
+   "lift_vs_rest": 1.1793
+  },
+  {
+   "platform": "Truth Social",
+   "theme": "Celebrity & business",
+   "n": 715,
+   "share": 0.0505,
+   "median_lift_x": 1.0967,
+   "mean_lift_x": 1.0931,
+   "lift_vs_rest": 0.892
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Immigration & border",
+   "n": 1069,
+   "share": 0.0511,
+   "median_lift_x": 1.0871,
+   "mean_lift_x": 1.1263,
+   "lift_vs_rest": 1.1094
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Economy, jobs & prices",
+   "n": 1727,
+   "share": 0.0826,
+   "median_lift_x": 1.0488,
+   "mean_lift_x": 1.0672,
+   "lift_vs_rest": 1.0498
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Elections & fraud claims",
+   "n": 1781,
+   "share": 0.0852,
+   "median_lift_x": 1.1399,
+   "mean_lift_x": 1.1547,
+   "lift_vs_rest": 1.1443
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Legal fights & 'witch hunt'",
+   "n": 1362,
+   "share": 0.0651,
+   "median_lift_x": 1.0792,
+   "mean_lift_x": 1.0918,
+   "lift_vs_rest": 1.0747
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Attacks on media",
+   "n": 1835,
+   "share": 0.0878,
+   "median_lift_x": 1.1045,
+   "mean_lift_x": 1.1082,
+   "lift_vs_rest": 1.0944
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Attacks on opponents",
+   "n": 3603,
+   "share": 0.1723,
+   "median_lift_x": 1.1581,
+   "mean_lift_x": 1.1919,
+   "lift_vs_rest": 1.2061
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Foreign policy & war",
+   "n": 1524,
+   "share": 0.0729,
+   "median_lift_x": 1.1079,
+   "mean_lift_x": 1.1403,
+   "lift_vs_rest": 1.127
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Crime & law and order",
+   "n": 985,
+   "share": 0.0471,
+   "median_lift_x": 1.1069,
+   "mean_lift_x": 1.1652,
+   "lift_vs_rest": 1.1491
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Faith, values & culture war",
+   "n": 470,
+   "share": 0.0225,
+   "median_lift_x": 1.0681,
+   "mean_lift_x": 1.1621,
+   "lift_vs_rest": 1.1419
+  },
+  {
+   "platform": "Twitter",
+   "theme": "MAGA identity & movement",
+   "n": 1010,
+   "share": 0.0483,
+   "median_lift_x": 0.9788,
+   "mean_lift_x": 1.0468,
+   "lift_vs_rest": 1.0269
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Endorsements",
+   "n": 262,
+   "share": 0.0125,
+   "median_lift_x": 0.4208,
+   "mean_lift_x": 0.4785,
+   "lift_vs_rest": 0.4643
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Rallies & crowds",
+   "n": 536,
+   "share": 0.0256,
+   "median_lift_x": 1.0087,
+   "mean_lift_x": 1.0338,
+   "lift_vs_rest": 1.0132
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Health, MAHA & COVID",
+   "n": 471,
+   "share": 0.0225,
+   "median_lift_x": 1.1306,
+   "mean_lift_x": 1.1869,
+   "lift_vs_rest": 1.1669
+  },
+  {
+   "platform": "Twitter",
+   "theme": "Celebrity & business",
+   "n": 718,
+   "share": 0.0343,
+   "median_lift_x": 0.8047,
+   "mean_lift_x": 0.7763,
+   "lift_vs_rest": 0.7532
+  }
+ ],
+ "theme_era": [
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Immigration & border",
+   "n": 195,
+   "share": 0.0369,
+   "median_lift_x": 1.2688,
+   "mean_lift_x": 1.3686,
+   "lift_vs_rest": 1.3451
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Economy, jobs & prices",
+   "n": 165,
+   "share": 0.0312,
+   "median_lift_x": 1.1363,
+   "mean_lift_x": 1.1446,
+   "lift_vs_rest": 1.1166
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Elections & fraud claims",
+   "n": 500,
+   "share": 0.0946,
+   "median_lift_x": 1.1111,
+   "mean_lift_x": 1.1163,
+   "lift_vs_rest": 1.0945
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Legal fights & 'witch hunt'",
+   "n": 67,
+   "share": 0.0127,
+   "median_lift_x": 1.0536,
+   "mean_lift_x": 1.1901,
+   "lift_vs_rest": 1.1592
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Attacks on media",
+   "n": 467,
+   "share": 0.0883,
+   "median_lift_x": 0.985,
+   "mean_lift_x": 1.0144,
+   "lift_vs_rest": 0.9848
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Attacks on opponents",
+   "n": 814,
+   "share": 0.1539,
+   "median_lift_x": 1.2293,
+   "mean_lift_x": 1.2519,
+   "lift_vs_rest": 1.2614
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Foreign policy & war",
+   "n": 128,
+   "share": 0.0242,
+   "median_lift_x": 1.1634,
+   "mean_lift_x": 1.1534,
+   "lift_vs_rest": 1.1245
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Crime & law and order",
+   "n": 103,
+   "share": 0.0195,
+   "median_lift_x": 1.2079,
+   "mean_lift_x": 1.3056,
+   "lift_vs_rest": 1.2752
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Faith, values & culture war",
+   "n": 78,
+   "share": 0.0148,
+   "median_lift_x": 1.4975,
+   "mean_lift_x": 1.5239,
+   "lift_vs_rest": 1.4902
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "MAGA identity & movement",
+   "n": 328,
+   "share": 0.062,
+   "median_lift_x": 1.0439,
+   "mean_lift_x": 1.0531,
+   "lift_vs_rest": 1.0254
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Rallies & crowds",
+   "n": 268,
+   "share": 0.0507,
+   "median_lift_x": 1.0106,
+   "mean_lift_x": 1.0459,
+   "lift_vs_rest": 1.0177
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Health, MAHA & COVID",
+   "n": 61,
+   "share": 0.0115,
+   "median_lift_x": 1.0355,
+   "mean_lift_x": 1.1409,
+   "lift_vs_rest": 1.1105
+  },
+  {
+   "era": "Candidate (2015\u201316)",
+   "theme": "Celebrity & business",
+   "n": 294,
+   "share": 0.0556,
+   "median_lift_x": 0.6943,
+   "mean_lift_x": 0.6548,
+   "lift_vs_rest": 0.6199
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Immigration & border",
+   "n": 874,
+   "share": 0.056,
+   "median_lift_x": 1.0706,
+   "mean_lift_x": 1.0784,
+   "lift_vs_rest": 1.063
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Economy, jobs & prices",
+   "n": 1562,
+   "share": 0.1,
+   "median_lift_x": 1.0459,
+   "mean_lift_x": 1.0593,
+   "lift_vs_rest": 1.0452
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Elections & fraud claims",
+   "n": 1281,
+   "share": 0.082,
+   "median_lift_x": 1.1516,
+   "mean_lift_x": 1.17,
+   "lift_vs_rest": 1.1637
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Legal fights & 'witch hunt'",
+   "n": 1295,
+   "share": 0.0829,
+   "median_lift_x": 1.0793,
+   "mean_lift_x": 1.087,
+   "lift_vs_rest": 1.0741
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Attacks on media",
+   "n": 1368,
+   "share": 0.0876,
+   "median_lift_x": 1.1311,
+   "mean_lift_x": 1.1422,
+   "lift_vs_rest": 1.1345
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Attacks on opponents",
+   "n": 2789,
+   "share": 0.1786,
+   "median_lift_x": 1.1432,
+   "mean_lift_x": 1.175,
+   "lift_vs_rest": 1.1907
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Foreign policy & war",
+   "n": 1396,
+   "share": 0.0894,
+   "median_lift_x": 1.1045,
+   "mean_lift_x": 1.1392,
+   "lift_vs_rest": 1.1314
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Crime & law and order",
+   "n": 882,
+   "share": 0.0565,
+   "median_lift_x": 1.1012,
+   "mean_lift_x": 1.1498,
+   "lift_vs_rest": 1.1377
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Faith, values & culture war",
+   "n": 392,
+   "share": 0.0251,
+   "median_lift_x": 1.0301,
+   "mean_lift_x": 1.1011,
+   "lift_vs_rest": 1.0838
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "MAGA identity & movement",
+   "n": 682,
+   "share": 0.0437,
+   "median_lift_x": 0.957,
+   "mean_lift_x": 1.0438,
+   "lift_vs_rest": 1.0265
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Endorsements",
+   "n": 258,
+   "share": 0.0165,
+   "median_lift_x": 0.4186,
+   "mean_lift_x": 0.4696,
+   "lift_vs_rest": 0.4553
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Rallies & crowds",
+   "n": 268,
+   "share": 0.0172,
+   "median_lift_x": 1.0048,
+   "mean_lift_x": 1.0219,
+   "lift_vs_rest": 1.0039
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Health, MAHA & COVID",
+   "n": 410,
+   "share": 0.0262,
+   "median_lift_x": 1.1459,
+   "mean_lift_x": 1.1939,
+   "lift_vs_rest": 1.1778
+  },
+  {
+   "era": "President, 1st term (2017\u201321)",
+   "theme": "Celebrity & business",
+   "n": 424,
+   "share": 0.0271,
+   "median_lift_x": 0.8777,
+   "mean_lift_x": 0.8735,
+   "lift_vs_rest": 0.8544
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Immigration & border",
+   "n": 602,
+   "share": 0.0604,
+   "median_lift_x": 1.4298,
+   "mean_lift_x": 1.4096,
+   "lift_vs_rest": 1.1371
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Economy, jobs & prices",
+   "n": 525,
+   "share": 0.0527,
+   "median_lift_x": 1.335,
+   "mean_lift_x": 1.3281,
+   "lift_vs_rest": 1.0667
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Elections & fraud claims",
+   "n": 1977,
+   "share": 0.1985,
+   "median_lift_x": 1.3998,
+   "mean_lift_x": 1.3852,
+   "lift_vs_rest": 1.1375
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Legal fights & 'witch hunt'",
+   "n": 1941,
+   "share": 0.1949,
+   "median_lift_x": 1.4399,
+   "mean_lift_x": 1.4194,
+   "lift_vs_rest": 1.1718
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Attacks on media",
+   "n": 725,
+   "share": 0.0728,
+   "median_lift_x": 1.3409,
+   "mean_lift_x": 1.3334,
+   "lift_vs_rest": 1.0727
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Attacks on opponents",
+   "n": 3030,
+   "share": 0.3042,
+   "median_lift_x": 1.3671,
+   "mean_lift_x": 1.3815,
+   "lift_vs_rest": 1.1555
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Foreign policy & war",
+   "n": 622,
+   "share": 0.0625,
+   "median_lift_x": 1.4237,
+   "mean_lift_x": 1.4122,
+   "lift_vs_rest": 1.1397
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Crime & law and order",
+   "n": 749,
+   "share": 0.0752,
+   "median_lift_x": 1.4024,
+   "mean_lift_x": 1.4039,
+   "lift_vs_rest": 1.1344
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Faith, values & culture war",
+   "n": 239,
+   "share": 0.024,
+   "median_lift_x": 1.4404,
+   "mean_lift_x": 1.4171,
+   "lift_vs_rest": 1.1378
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "MAGA identity & movement",
+   "n": 1297,
+   "share": 0.1302,
+   "median_lift_x": 1.4671,
+   "mean_lift_x": 1.4604,
+   "lift_vs_rest": 1.1966
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Endorsements",
+   "n": 576,
+   "share": 0.0578,
+   "median_lift_x": 0.7445,
+   "mean_lift_x": 0.7671,
+   "lift_vs_rest": 0.5959
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Rallies & crowds",
+   "n": 325,
+   "share": 0.0326,
+   "median_lift_x": 1.1135,
+   "mean_lift_x": 1.1403,
+   "lift_vs_rest": 0.9099
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Health, MAHA & COVID",
+   "n": 78,
+   "share": 0.0078,
+   "median_lift_x": 1.2215,
+   "mean_lift_x": 1.2884,
+   "lift_vs_rest": 1.0315
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Tech, crypto & new media",
+   "n": 151,
+   "share": 0.0152,
+   "median_lift_x": 1.4708,
+   "mean_lift_x": 1.4925,
+   "lift_vs_rest": 1.1979
+  },
+  {
+   "era": "Out of office (2022\u2013Jan 2025)",
+   "theme": "Celebrity & business",
+   "n": 548,
+   "share": 0.055,
+   "median_lift_x": 1.098,
+   "mean_lift_x": 1.1161,
+   "lift_vs_rest": 0.8875
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Immigration & border",
+   "n": 282,
+   "share": 0.0674,
+   "median_lift_x": 1.6215,
+   "mean_lift_x": 1.5757,
+   "lift_vs_rest": 1.4047
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Economy, jobs & prices",
+   "n": 636,
+   "share": 0.1519,
+   "median_lift_x": 1.5572,
+   "mean_lift_x": 1.5032,
+   "lift_vs_rest": 1.3746
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Elections & fraud claims",
+   "n": 373,
+   "share": 0.0891,
+   "median_lift_x": 1.557,
+   "mean_lift_x": 1.4757,
+   "lift_vs_rest": 1.3178
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Legal fights & 'witch hunt'",
+   "n": 351,
+   "share": 0.0839,
+   "median_lift_x": 1.306,
+   "mean_lift_x": 1.2428,
+   "lift_vs_rest": 1.0908
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Attacks on media",
+   "n": 226,
+   "share": 0.054,
+   "median_lift_x": 1.5297,
+   "mean_lift_x": 1.4416,
+   "lift_vs_rest": 1.2725
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Attacks on opponents",
+   "n": 739,
+   "share": 0.1765,
+   "median_lift_x": 1.6238,
+   "mean_lift_x": 1.5084,
+   "lift_vs_rest": 1.3936
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Foreign policy & war",
+   "n": 563,
+   "share": 0.1345,
+   "median_lift_x": 1.6964,
+   "mean_lift_x": 1.677,
+   "lift_vs_rest": 1.5499
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Crime & law and order",
+   "n": 406,
+   "share": 0.097,
+   "median_lift_x": 1.5872,
+   "mean_lift_x": 1.5624,
+   "lift_vs_rest": 1.4072
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Faith, values & culture war",
+   "n": 145,
+   "share": 0.0346,
+   "median_lift_x": 1.5977,
+   "mean_lift_x": 1.5536,
+   "lift_vs_rest": 1.3685
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "MAGA identity & movement",
+   "n": 439,
+   "share": 0.1049,
+   "median_lift_x": 1.609,
+   "mean_lift_x": 1.4677,
+   "lift_vs_rest": 1.3162
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Endorsements",
+   "n": 497,
+   "share": 0.1187,
+   "median_lift_x": 0.6581,
+   "mean_lift_x": 0.4635,
+   "lift_vs_rest": 0.3574
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Health, MAHA & COVID",
+   "n": 59,
+   "share": 0.0141,
+   "median_lift_x": 1.3108,
+   "mean_lift_x": 1.3009,
+   "lift_vs_rest": 1.1355
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Tech, crypto & new media",
+   "n": 81,
+   "share": 0.0194,
+   "median_lift_x": 1.4014,
+   "mean_lift_x": 1.3282,
+   "lift_vs_rest": 1.1606
+  },
+  {
+   "era": "President, 2nd term (2025\u201326)",
+   "theme": "Celebrity & business",
+   "n": 167,
+   "share": 0.0399,
+   "median_lift_x": 1.0967,
+   "mean_lift_x": 1.021,
+   "lift_vs_rest": 0.8853
+  }
+ ],
+ "model_Truth Social": {
+  "n": 27352,
+  "r2": 0.2268,
+  "terms": [
+   {
+    "term": "Theme: Immigration & border",
+    "coef": 0.0555,
+    "pct": 5.7077,
+    "lo": 1.9662,
+    "hi": 9.5866,
+    "p": 0.0025
+   },
+   {
+    "term": "Theme: Economy, jobs & prices",
+    "coef": 0.0406,
+    "pct": 4.1448,
+    "lo": 0.7201,
+    "hi": 7.6859,
+    "p": 0.0173
+   },
+   {
+    "term": "Theme: Elections & fraud claims",
+    "coef": 0.0228,
+    "pct": 2.3025,
+    "lo": 0.1155,
+    "hi": 4.5372,
+    "p": 0.039
+   },
+   {
+    "term": "Theme: Legal fights & 'witch hunt'",
+    "coef": 0.0147,
+    "pct": 1.482,
+    "lo": -0.7865,
+    "hi": 3.8023,
+    "p": 0.2022
+   },
+   {
+    "term": "Theme: Attacks on media",
+    "coef": -0.0277,
+    "pct": -2.7346,
+    "lo": -5.9016,
+    "hi": 0.539,
+    "p": 0.1007
+   },
+   {
+    "term": "Theme: Attacks on opponents",
+    "coef": 0.0374,
+    "pct": 3.813,
+    "lo": 1.7329,
+    "hi": 5.9357,
+    "p": 0.0003
+   },
+   {
+    "term": "Theme: Foreign policy & war",
+    "coef": 0.1418,
+    "pct": 15.2364,
+    "lo": 11.7814,
+    "hi": 18.7983,
+    "p": 0.0
+   },
+   {
+    "term": "Theme: Crime & law and order",
+    "coef": 0.0368,
+    "pct": 3.7503,
+    "lo": 0.5766,
+    "hi": 7.0241,
+    "p": 0.0202
+   },
+   {
+    "term": "Theme: Faith, values & culture war",
+    "coef": 0.0724,
+    "pct": 7.5101,
+    "lo": 2.3635,
+    "hi": 12.9154,
+    "p": 0.0038
+   },
+   {
+    "term": "Theme: MAGA identity & movement",
+    "coef": 0.0311,
+    "pct": 3.1604,
+    "lo": 0.5333,
+    "hi": 5.8562,
+    "p": 0.0181
+   },
+   {
+    "term": "Theme: Endorsements",
+    "coef": -0.8356,
+    "pct": -56.6397,
+    "lo": -58.895,
+    "hi": -54.2607,
+    "p": 0.0
+   },
+   {
+    "term": "Theme: Rallies & crowds",
+    "coef": -0.0976,
+    "pct": -9.2957,
+    "lo": -13.0579,
+    "hi": -5.3706,
+    "p": 0.0
+   },
+   {
+    "term": "Theme: Health, MAHA & COVID",
+    "coef": -0.0938,
+    "pct": -8.9507,
+    "lo": -16.9116,
+    "hi": -0.227,
+    "p": 0.0446
+   },
+   {
+    "term": "Theme: Tech, crypto & new media",
+    "coef": 0.1449,
+    "pct": 15.5942,
+    "lo": 7.3278,
+    "hi": 24.4972,
+    "p": 0.0001
+   },
+   {
+    "term": "Theme: Celebrity & business",
+    "coef": -0.1702,
+    "pct": -15.6464,
+    "lo": -18.7134,
+    "hi": -12.4638,
+    "p": 0.0
+   },
+   {
+    "term": "Style: insult / nickname",
+    "coef": 0.0864,
+    "pct": 9.0255,
+    "lo": 6.3393,
+    "hi": 11.7795,
+    "p": 0.0
+   },
+   {
+    "term": "Style: ALL-CAPS share (per +10pp)",
+    "coef": 0.0322,
+    "pct": 3.277,
+    "lo": 2.9643,
+    "hi": 3.5906,
+    "p": 0.0
+   },
+   {
+    "term": "Style: exclamation (any)",
+    "coef": 0.2393,
+    "pct": 27.0404,
+    "lo": 24.3305,
+    "hi": 29.8095,
+    "p": 0.0
+   },
+   {
+    "term": "Format: contains link",
+    "coef": -0.1367,
+    "pct": -12.7764,
+    "lo": -14.6171,
+    "hi": -10.8961,
+    "p": 0.0
+   },
+   {
+    "term": "Format: media only (no text)",
+    "coef": -0.1941,
+    "pct": -17.6417,
+    "lo": -20.1539,
+    "hi": -15.0506,
+    "p": 0.0
+   },
+   {
+    "term": "Format: link only (no comment)",
+    "coef": -0.2379,
+    "pct": -21.1736,
+    "lo": -23.448,
+    "hi": -18.8317,
+    "p": 0.0
+   },
+   {
+    "term": "Length_Very short (1\u201315)",
+    "coef": -0.2108,
+    "pct": -19.0099,
+    "lo": -20.9713,
+    "hi": -16.9999,
+    "p": 0.0
+   },
+   {
+    "term": "Length_Medium (41\u201380)",
+    "coef": 0.0816,
+    "pct": 8.4981,
+    "lo": 5.8309,
+    "hi": 11.2326,
+    "p": 0.0
+   },
+   {
+    "term": "Length_Long (80+)",
+    "coef": 0.0436,
+    "pct": 4.4553,
+    "lo": 1.4341,
+    "hi": 7.5665,
+    "p": 0.0036
+   },
+   {
+    "term": "Timing: late night (11pm\u20135am ET)",
+    "coef": -0.0269,
+    "pct": -2.6536,
+    "lo": -5.3063,
+    "hi": 0.0733,
+    "p": 0.0564
+   },
+   {
+    "term": "Timing: weekend",
+    "coef": 0.0528,
+    "pct": 5.4176,
+    "lo": 3.8882,
+    "hi": 6.9695,
+    "p": 0.0
+   }
+  ]
+ },
+ "model_Twitter": {
+  "n": 20908,
+  "r2": 0.2241,
+  "terms": [
+   {
+    "term": "Theme: Immigration & border",
+    "coef": -0.0211,
+    "pct": -2.0842,
+    "lo": -4.876,
+    "hi": 0.7896,
+    "p": 0.1536
+   },
+   {
+    "term": "Theme: Economy, jobs & prices",
+    "coef": -0.0772,
+    "pct": -7.4263,
+    "lo": -9.2268,
+    "hi": -5.5902,
+    "p": 0.0
+   },
+   {
+    "term": "Theme: Elections & fraud claims",
+    "coef": 0.0465,
+    "pct": 4.7571,
+    "lo": 2.5199,
+    "hi": 7.0432,
+    "p": 0.0
+   },
+   {
+    "term": "Theme: Legal fights & 'witch hunt'",
+    "coef": -0.0831,
+    "pct": -7.9716,
+    "lo": -9.8819,
+    "hi": -6.0208,
+    "p": 0.0
+   },
+   {
+    "term": "Theme: Attacks on media",
+    "coef": -0.0193,
+    "pct": -1.9148,
+    "lo": -3.9035,
+    "hi": 0.115,
+    "p": 0.0643
+   },
+   {
+    "term": "Theme: Attacks on opponents",
+    "coef": 0.0682,
+    "pct": 7.061,
+    "lo": 5.2291,
+    "hi": 8.9248,
+    "p": 0.0
+   },
+   {
+    "term": "Theme: Foreign policy & war",
+    "coef": 0.0048,
+    "pct": 0.481,
+    "lo": -1.6058,
+    "hi": 2.612,
+    "p": 0.6541
+   },
+   {
+    "term": "Theme: Crime & law and order",
+    "coef": 0.0157,
+    "pct": 1.5856,
+    "lo": -1.3676,
+    "hi": 4.6272,
+    "p": 0.296
+   },
+   {
+    "term": "Theme: Faith, values & culture war",
+    "coef": 0.097,
+    "pct": 10.191,
+    "lo": 5.3332,
+    "hi": 15.2728,
+    "p": 0.0
+   },
+   {
+    "term": "Theme: MAGA identity & movement",
+    "coef": -0.0324,
+    "pct": -3.1892,
+    "lo": -6.7866,
+    "hi": 0.547,
+    "p": 0.0934
+   },
+   {
+    "term": "Theme: Endorsements",
+    "coef": -0.6918,
+    "pct": -49.9345,
+    "lo": -52.31,
+    "hi": -47.4406,
+    "p": 0.0
+   },
+   {
+    "term": "Theme: Rallies & crowds",
+    "coef": -0.0189,
+    "pct": -1.8747,
+    "lo": -5.2174,
+    "hi": 1.586,
+    "p": 0.2845
+   },
+   {
+    "term": "Theme: Health, MAHA & COVID",
+    "coef": 0.0243,
+    "pct": 2.456,
+    "lo": -1.9045,
+    "hi": 7.0104,
+    "p": 0.2742
+   },
+   {
+    "term": "Theme: Tech, crypto & new media",
+    "coef": 0.364,
+    "pct": 43.9081,
+    "lo": 3.8578,
+    "hi": 99.403,
+    "p": 0.0287
+   },
+   {
+    "term": "Theme: Celebrity & business",
+    "coef": -0.3552,
+    "pct": -29.8954,
+    "lo": -33.1614,
+    "hi": -26.4698,
+    "p": 0.0
+   },
+   {
+    "term": "Style: insult / nickname",
+    "coef": 0.0434,
+    "pct": 4.4369,
+    "lo": 2.2288,
+    "hi": 6.6926,
+    "p": 0.0001
+   },
+   {
+    "term": "Style: ALL-CAPS share (per +10pp)",
+    "coef": 0.0485,
+    "pct": 4.9686,
+    "lo": 4.4787,
+    "hi": 5.4609,
+    "p": 0.0
+   },
+   {
+    "term": "Style: exclamation (any)",
+    "coef": 0.0808,
+    "pct": 8.4113,
+    "lo": 6.8621,
+    "hi": 9.9828,
+    "p": 0.0
+   },
+   {
+    "term": "Format: contains link",
+    "coef": -0.4182,
+    "pct": -34.1758,
+    "lo": -35.2866,
+    "hi": -33.0459,
+    "p": 0.0
+   },
+   {
+    "term": "Length_Very short (1\u201315)",
+    "coef": -0.0163,
+    "pct": -1.6185,
+    "lo": -3.4177,
+    "hi": 0.2142,
+    "p": 0.0831
+   },
+   {
+    "term": "Length_Medium (41\u201380)",
+    "coef": -0.0075,
+    "pct": -0.7458,
+    "lo": -2.2546,
+    "hi": 0.7863,
+    "p": 0.3381
+   },
+   {
+    "term": "Timing: late night (11pm\u20135am ET)",
+    "coef": 0.0608,
+    "pct": 6.2727,
+    "lo": 3.5484,
+    "hi": 9.0686,
+    "p": 0.0
+   },
+   {
+    "term": "Timing: weekend",
+    "coef": 0.041,
+    "pct": 4.1887,
+    "lo": 2.6849,
+    "hi": 5.7145,
+    "p": 0.0
+   }
+  ]
+ },
+ "format_truth": [
+  {
+   "post_type": "Link only",
+   "size": 5703,
+   "median": -0.2981,
+   "median_lift_x": 0.7422
+  },
+  {
+   "post_type": "Media only",
+   "size": 5933,
+   "median": -0.1111,
+   "median_lift_x": 0.8948
+  },
+  {
+   "post_type": "Original",
+   "size": 14145,
+   "median": 0.2271,
+   "median_lift_x": 1.255
+  },
+  {
+   "post_type": "Quote-post",
+   "size": 1571,
+   "median": -0.1047,
+   "median_lift_x": 0.9006
+  }
+ ],
+ "link_twitter": {
+  "with_link": 0.7733640785053972,
+  "no_link": 1.144376596979349
+ },
+ "link_truth_text": {
+  "with_link": 0.9688208395033563,
+  "no_link": 1.3468594974322605
+ },
+ "endorse_quarterly": [
+  {
+   "q": "2022Q1",
+   "n": 1,
+   "endorse": 0,
+   "share": 0.0
+  },
+  {
+   "q": "2022Q2",
+   "n": 326,
+   "endorse": 31,
+   "share": 0.0951
+  },
+  {
+   "q": "2022Q3",
+   "n": 615,
+   "endorse": 33,
+   "share": 0.0537
+  },
+  {
+   "q": "2022Q4",
+   "n": 601,
+   "endorse": 36,
+   "share": 0.0599
+  },
+  {
+   "q": "2023Q1",
+   "n": 715,
+   "endorse": 3,
+   "share": 0.0042
+  },
+  {
+   "q": "2023Q2",
+   "n": 711,
+   "endorse": 5,
+   "share": 0.007
+  },
+  {
+   "q": "2023Q3",
+   "n": 882,
+   "endorse": 5,
+   "share": 0.0057
+  },
+  {
+   "q": "2023Q4",
+   "n": 1072,
+   "endorse": 19,
+   "share": 0.0177
+  },
+  {
+   "q": "2024Q1",
+   "n": 1340,
+   "endorse": 113,
+   "share": 0.0843
+  },
+  {
+   "q": "2024Q2",
+   "n": 1411,
+   "endorse": 199,
+   "share": 0.141
+  },
+  {
+   "q": "2024Q3",
+   "n": 1277,
+   "endorse": 103,
+   "share": 0.0807
+  },
+  {
+   "q": "2024Q4",
+   "n": 887,
+   "endorse": 28,
+   "share": 0.0316
+  },
+  {
+   "q": "2025Q1",
+   "n": 694,
+   "endorse": 21,
+   "share": 0.0303
+  },
+  {
+   "q": "2025Q2",
+   "n": 824,
+   "endorse": 44,
+   "share": 0.0534
+  },
+  {
+   "q": "2025Q3",
+   "n": 800,
+   "endorse": 42,
+   "share": 0.0525
+  },
+  {
+   "q": "2025Q4",
+   "n": 804,
+   "endorse": 194,
+   "share": 0.2413
+  },
+  {
+   "q": "2026Q1",
+   "n": 911,
+   "endorse": 155,
+   "share": 0.1701
+  },
+  {
+   "q": "2026Q2",
+   "n": 290,
+   "endorse": 43,
+   "share": 0.1483
+  }
+ ],
+ "endorse_total_truth": 1074,
+ "newsom_caps": {
+  "4wk": {
+   "before": 0.1557,
+   "after": 0.1644,
+   "n_before": 281,
+   "n_after": 255
+  },
+  "8wk": {
+   "before": 0.1578,
+   "after": 0.1532,
+   "n_before": 576,
+   "n_after": 439
+  },
+  "13wk": {
+   "before": 0.155,
+   "after": 0.1468,
+   "n_before": 828,
+   "n_after": 886
+  },
+  "26wk": {
+   "before": 0.1516,
+   "after": 0.1245,
+   "n_before": 1659,
+   "n_after": 1597
+  }
+ },
+ "caps_monthly_truth": [
+  {
+   "month": "2022-02",
+   "caps": 0.0
+  },
+  {
+   "month": "2022-03",
+   "caps": NaN
+  },
+  {
+   "month": "2022-04",
+   "caps": 0.1215
+  },
+  {
+   "month": "2022-05",
+   "caps": 0.064
+  },
+  {
+   "month": "2022-06",
+   "caps": 0.0766
+  },
+  {
+   "month": "2022-07",
+   "caps": 0.0595
+  },
+  {
+   "month": "2022-08",
+   "caps": 0.0756
+  },
+  {
+   "month": "2022-09",
+   "caps": 0.0676
+  },
+  {
+   "month": "2022-10",
+   "caps": 0.1332
+  },
+  {
+   "month": "2022-11",
+   "caps": 0.0837
+  },
+  {
+   "month": "2022-12",
+   "caps": 0.1465
+  },
+  {
+   "month": "2023-01",
+   "caps": 0.1103
+  },
+  {
+   "month": "2023-02",
+   "caps": 0.1
+  },
+  {
+   "month": "2023-03",
+   "caps": 0.1801
+  },
+  {
+   "month": "2023-04",
+   "caps": 0.1418
+  },
+  {
+   "month": "2023-05",
+   "caps": 0.1625
+  },
+  {
+   "month": "2023-06",
+   "caps": 0.2316
+  },
+  {
+   "month": "2023-07",
+   "caps": 0.2457
+  },
+  {
+   "month": "2023-08",
+   "caps": 0.2073
+  },
+  {
+   "month": "2023-09",
+   "caps": 0.1914
+  },
+  {
+   "month": "2023-10",
+   "caps": 0.1975
+  },
+  {
+   "month": "2023-11",
+   "caps": 0.1636
+  },
+  {
+   "month": "2023-12",
+   "caps": 0.1861
+  },
+  {
+   "month": "2024-01",
+   "caps": 0.2068
+  },
+  {
+   "month": "2024-02",
+   "caps": 0.2184
+  },
+  {
+   "month": "2024-03",
+   "caps": 0.2809
+  },
+  {
+   "month": "2024-04",
+   "caps": 0.2859
+  },
+  {
+   "month": "2024-05",
+   "caps": 0.1949
+  },
+  {
+   "month": "2024-06",
+   "caps": 0.2244
+  },
+  {
+   "month": "2024-07",
+   "caps": 0.1849
+  },
+  {
+   "month": "2024-08",
+   "caps": 0.256
+  },
+  {
+   "month": "2024-09",
+   "caps": 0.2753
+  },
+  {
+   "month": "2024-10",
+   "caps": 0.2725
+  },
+  {
+   "month": "2024-11",
+   "caps": 0.2563
+  },
+  {
+   "month": "2024-12",
+   "caps": 0.0813
+  },
+  {
+   "month": "2025-01",
+   "caps": 0.1378
+  },
+  {
+   "month": "2025-02",
+   "caps": 0.1914
+  },
+  {
+   "month": "2025-03",
+   "caps": 0.1134
+  },
+  {
+   "month": "2025-04",
+   "caps": 0.1726
+  },
+  {
+   "month": "2025-05",
+   "caps": 0.1093
+  },
+  {
+   "month": "2025-06",
+   "caps": 0.1687
+  },
+  {
+   "month": "2025-07",
+   "caps": 0.1411
+  },
+  {
+   "month": "2025-08",
+   "caps": 0.1734
+  },
+  {
+   "month": "2025-09",
+   "caps": 0.1483
+  },
+  {
+   "month": "2025-10",
+   "caps": 0.1183
+  },
+  {
+   "month": "2025-11",
+   "caps": 0.1539
+  },
+  {
+   "month": "2025-12",
+   "caps": 0.0822
+  },
+  {
+   "month": "2026-01",
+   "caps": 0.0934
+  },
+  {
+   "month": "2026-02",
+   "caps": 0.0789
+  },
+  {
+   "month": "2026-03",
+   "caps": 0.1022
+  },
+  {
+   "month": "2026-04",
+   "caps": 0.0973
+  }
+ ],
+ "caps_monthly_twitter": [
+  {
+   "month": "2015-01",
+   "caps": 0.0257
+  },
+  {
+   "month": "2015-02",
+   "caps": 0.0418
+  },
+  {
+   "month": "2015-03",
+   "caps": 0.022
+  },
+  {
+   "month": "2015-04",
+   "caps": 0.022
+  },
+  {
+   "month": "2015-05",
+   "caps": 0.0286
+  },
+  {
+   "month": "2015-06",
+   "caps": 0.0244
+  },
+  {
+   "month": "2015-07",
+   "caps": 0.044
+  },
+  {
+   "month": "2015-08",
+   "caps": 0.0201
+  },
+  {
+   "month": "2015-09",
+   "caps": 0.0211
+  },
+  {
+   "month": "2015-10",
+   "caps": 0.0208
+  },
+  {
+   "month": "2015-11",
+   "caps": 0.0238
+  },
+  {
+   "month": "2015-12",
+   "caps": 0.041
+  },
+  {
+   "month": "2016-01",
+   "caps": 0.0398
+  },
+  {
+   "month": "2016-02",
+   "caps": 0.0633
+  },
+  {
+   "month": "2016-03",
+   "caps": 0.0546
+  },
+  {
+   "month": "2016-04",
+   "caps": 0.0625
+  },
+  {
+   "month": "2016-05",
+   "caps": 0.0403
+  },
+  {
+   "month": "2016-06",
+   "caps": 0.0392
+  },
+  {
+   "month": "2016-07",
+   "caps": 0.0491
+  },
+  {
+   "month": "2016-08",
+   "caps": 0.05
+  },
+  {
+   "month": "2016-09",
+   "caps": 0.051
+  },
+  {
+   "month": "2016-10",
+   "caps": 0.0793
+  },
+  {
+   "month": "2016-11",
+   "caps": 0.0642
+  },
+  {
+   "month": "2016-12",
+   "caps": 0.0385
+  },
+  {
+   "month": "2017-01",
+   "caps": 0.0448
+  },
+  {
+   "month": "2017-02",
+   "caps": 0.056
+  },
+  {
+   "month": "2017-03",
+   "caps": 0.0661
+  },
+  {
+   "month": "2017-04",
+   "caps": 0.0453
+  },
+  {
+   "month": "2017-05",
+   "caps": 0.0248
+  },
+  {
+   "month": "2017-06",
+   "caps": 0.0577
+  },
+  {
+   "month": "2017-07",
+   "caps": 0.0551
+  },
+  {
+   "month": "2017-08",
+   "caps": 0.0429
+  },
+  {
+   "month": "2017-09",
+   "caps": 0.0466
+  },
+  {
+   "month": "2017-10",
+   "caps": 0.0496
+  },
+  {
+   "month": "2017-11",
+   "caps": 0.0578
+  },
+  {
+   "month": "2017-12",
+   "caps": 0.1021
+  },
+  {
+   "month": "2018-01",
+   "caps": 0.0565
+  },
+  {
+   "month": "2018-02",
+   "caps": 0.0435
+  },
+  {
+   "month": "2018-03",
+   "caps": 0.0584
+  },
+  {
+   "month": "2018-04",
+   "caps": 0.0444
+  },
+  {
+   "month": "2018-05",
+   "caps": 0.0371
+  },
+  {
+   "month": "2018-06",
+   "caps": 0.0445
+  },
+  {
+   "month": "2018-07",
+   "caps": 0.0473
+  },
+  {
+   "month": "2018-08",
+   "caps": 0.0429
+  },
+  {
+   "month": "2018-09",
+   "caps": 0.0496
+  },
+  {
+   "month": "2018-10",
+   "caps": 0.0659
+  },
+  {
+   "month": "2018-11",
+   "caps": 0.0607
+  },
+  {
+   "month": "2018-12",
+   "caps": 0.038
+  },
+  {
+   "month": "2019-01",
+   "caps": 0.0486
+  },
+  {
+   "month": "2019-02",
+   "caps": 0.046
+  },
+  {
+   "month": "2019-03",
+   "caps": 0.0559
+  },
+  {
+   "month": "2019-04",
+   "caps": 0.0749
+  },
+  {
+   "month": "2019-05",
+   "caps": 0.0488
+  },
+  {
+   "month": "2019-06",
+   "caps": 0.0394
+  },
+  {
+   "month": "2019-07",
+   "caps": 0.0482
+  },
+  {
+   "month": "2019-08",
+   "caps": 0.0347
+  },
+  {
+   "month": "2019-09",
+   "caps": 0.0606
+  },
+  {
+   "month": "2019-10",
+   "caps": 0.0599
+  },
+  {
+   "month": "2019-11",
+   "caps": 0.0646
+  },
+  {
+   "month": "2019-12",
+   "caps": 0.0451
+  },
+  {
+   "month": "2020-01",
+   "caps": 0.0721
+  },
+  {
+   "month": "2020-02",
+   "caps": 0.0922
+  },
+  {
+   "month": "2020-03",
+   "caps": 0.1109
+  },
+  {
+   "month": "2020-04",
+   "caps": 0.0614
+  },
+  {
+   "month": "2020-05",
+   "caps": 0.0818
+  },
+  {
+   "month": "2020-06",
+   "caps": 0.08
+  },
+  {
+   "month": "2020-07",
+   "caps": 0.0805
+  },
+  {
+   "month": "2020-08",
+   "caps": 0.0593
+  },
+  {
+   "month": "2020-09",
+   "caps": 0.0696
+  },
+  {
+   "month": "2020-10",
+   "caps": 0.1207
+  },
+  {
+   "month": "2020-11",
+   "caps": 0.0967
+  },
+  {
+   "month": "2020-12",
+   "caps": 0.0664
+  },
+  {
+   "month": "2021-01",
+   "caps": 0.0795
+  }
+ ],
+ "volume_bands_truth": [
+  {
+   "band": "1\u20135",
+   "days": 148,
+   "mean_lift": 0.4653,
+   "lift_x": 1.5925,
+   "total_typical": 5.441,
+   "posts_median": 4.0,
+   "housekeeping_share": 0.2918
+  },
+  {
+   "band": "6\u201310",
+   "days": 302,
+   "mean_lift": 0.3068,
+   "lift_x": 1.3591,
+   "total_typical": 11.9081,
+   "posts_median": 8.0,
+   "housekeeping_share": 0.3977
+  },
+  {
+   "band": "11\u201320",
+   "days": 501,
+   "mean_lift": 0.1721,
+   "lift_x": 1.1878,
+   "total_typical": 19.6374,
+   "posts_median": 15.0,
+   "housekeeping_share": 0.4552
+  },
+  {
+   "band": "21\u201340",
+   "days": 398,
+   "mean_lift": -0.0517,
+   "lift_x": 0.9496,
+   "total_typical": 28.4945,
+   "posts_median": 27.0,
+   "housekeeping_share": 0.5399
+  },
+  {
+   "band": "41+",
+   "days": 100,
+   "mean_lift": -0.3276,
+   "lift_x": 0.7207,
+   "total_typical": 44.01,
+   "posts_median": 50.5,
+   "housekeeping_share": 0.6511
+  }
+ ],
+ "max_posts_day": 138,
+ "examples": {
+  "Candidate (2015\u201316)": {
+   "top": [
+    {
+     "date": "16 Jun 2015",
+     "platform": "Twitter",
+     "text": "I am officially running for President of the United States. #MakeAmericaGreatAgain https://t.co/Ct0lNu7kz0",
+     "likes": 10619,
+     "lift_x": 44.25
+    },
+    {
+     "date": "16 Jun 2015",
+     "platform": "Twitter",
+     "text": "Today I officially declared my candidacy for President of the United States. Watch the video of my full speech- https://t.co/gonTk0o9Dt",
+     "likes": 10277,
+     "lift_x": 42.12
+    },
+    {
+     "date": "27 Jun 2015",
+     "platform": "Twitter",
+     "text": "When somebody challenges you unfairly, fight back - be brutal, be tough - don't take it. It is always important to WIN!",
+     "likes": 11223,
+     "lift_x": 23.02
+    }
+   ],
+   "bottom": [
+    {
+     "date": "27 Sep 2016",
+     "platform": "Twitter",
+     "text": "'U.S. Murders Increased 10.8% in 2015' via @WSJ: https://t.co/CIJMQJhLqp",
+     "likes": 10273,
+     "lift_x": 0.51
+    },
+    {
+     "date": "29 Jun 2016",
+     "platform": "Twitter",
+     "text": "Just watched Senator John Barrasso on @FoxNews - He was great! Thank you John.",
+     "likes": 7898,
+     "lift_x": 0.51
+    },
+    {
+     "date": "24 Jun 2016",
+     "platform": "Twitter",
+     "text": "New Government data by the Center for Immigration Studies shows more than 3M new legal &, illegal immigrants settled..https://t.co/hMFyZc1kAM",
+     "likes": 7676,
+     "lift_x": 0.51
+    }
+   ]
+  },
+  "President, 1st term (2017\u201321)": {
+   "top": [
+    {
+     "date": "02 Oct 2020",
+     "platform": "Twitter",
+     "text": "Tonight, @FLOTUS and I tested positive for COVID-19. We will begin our quarantine and recovery process immediately. We will get through this TOGETHER!",
+     "likes": 1869706,
+     "lift_x": 24.93
+    },
+    {
+     "date": "03 Oct 2020",
+     "platform": "Twitter",
+     "text": "Going welI, I think! Thank you to all. LOVE!!!",
+     "likes": 1219870,
+     "lift_x": 16.24
+    },
+    {
+     "date": "02 Aug 2019",
+     "platform": "Twitter",
+     "text": "A$AP Rocky released from prison and on his way home to the United States from Sweden. It was a Rocky Week, get home ASAP A$AP!",
+     "likes": 821423,
+     "lift_x": 10.97
+    }
+   ],
+   "bottom": [
+    {
+     "date": "26 Jan 2018",
+     "platform": "Twitter",
+     "text": "Great bilateral meeting with President @Alain_Berset of the Swiss Confederation - as we continue to strengthen our great friendship. Such an honor to be in Switzerland! #WEF18 https://t.co/87pLrCpQkZ",
+     "likes": 47557,
+     "lift_x": 0.51
+    },
+    {
+     "date": "10 Mar 2020",
+     "platform": "Twitter",
+     "text": "True, with number 1 being more important! https://t.co/OwJf9vAdHQ",
+     "likes": 36461,
+     "lift_x": 0.51
+    },
+    {
+     "date": "04 Jun 2020",
+     "platform": "Twitter",
+     "text": "...Michael is Tough, Smart, and Loves our Country. This has been a big battle in Congress for 25 years. Thank you to our Great Republican Senate! @SenateCloakroom",
+     "likes": 43543,
+     "lift_x": 0.51
+    }
+   ]
+  },
+  "Out of office (2022\u2013Jan 2025)": {
+   "top": [
+    {
+     "date": "14 Jul 2024",
+     "platform": "Truth Social",
+     "text": "I want to thank The United States Secret Service, and all of Law Enforcement, for their rapid response on the shooting that just took place in Butler, Pennsylvania. Most importantly, I want to extend my condolences to the family of the person at the Rally who was killed, and also",
+     "likes": 266321,
+     "lift_x": 16.63
+    },
+    {
+     "date": "14 Jul 2024",
+     "platform": "Truth Social",
+     "text": "Thank you to everyone for your thoughts and prayers yesterday, as it was God alone who prevented the unthinkable from happening. We will FEAR NOT, but instead remain resilient in our Faith and Defiant in the face of Wickedness. Our love goes out to the other victims and their fam",
+     "likes": 186762,
+     "lift_x": 11.69
+    },
+    {
+     "date": "14 Jul 2024",
+     "platform": "Truth Social",
+     "text": "Based on yesterday\u2019s terrible events, I was going to delay my trip to Wisconsin, and The Republican National Convention, by two days, but have just decided that I cannot allow a \u201cshooter,\u201d or potential assassin, to force change to scheduling, or anything else. Therefore, I will b",
+     "likes": 157852,
+     "lift_x": 9.91
+    }
+   ],
+   "bottom": [
+    {
+     "date": "02 Nov 2024",
+     "platform": "Truth Social",
+     "text": "Wishing everyone a joyous Diwali filled with warmth, light, and prosperity. May this festival bring happiness to your heart, and illuminate your wonderful path forward.",
+     "likes": 7740,
+     "lift_x": 0.58
+    },
+    {
+     "date": "09 Jul 2022",
+     "platform": "Truth Social",
+     "text": "Elon never told me he only voted for Democrats. In fact, he told me he voted for \u201cTrump\u201d, and would do so again. Now he\u2019s going to pay a big price for signing a bad contract for a bad company.https://www.dailymail.co.uk/news/article-10997639/Trump-celebrates-Elon-Musk-pulling-44b",
+     "likes": 11391,
+     "lift_x": 0.58
+    },
+    {
+     "date": "30 Jan 2023",
+     "platform": "Truth Social",
+     "text": "If you want to see our country go to Hell even faster than its current pace, support CLUB FOR NO GROWTH. These are RINOS and others who don\u2019t have a clue! Similarly, the PERVERTS at the Lincoln Project are having a VERY hard time raising money to fight MAGA and America First. Don",
+     "likes": 9599,
+     "lift_x": 0.58
+    }
+   ]
+  },
+  "President, 2nd term (2025\u201326)": {
+   "top": [
+    {
+     "date": "11 May 2025",
+     "platform": "Truth Social",
+     "text": "For many years the World has wondered why Prescription Drugs and Pharmaceuticals in the United States States of America were SO MUCH HIGHER IN PRICE THAN THEY WERE IN ANY OTHER NATION, SOMETIMES BEING FIVE TO TEN TIMES MORE EXPENSIVE THAN THE SAME DRUG, MANUFACTURED IN THE EXACT ",
+     "likes": 70125,
+     "lift_x": 13.6
+    },
+    {
+     "date": "23 Jun 2025",
+     "platform": "Truth Social",
+     "text": "CONGRATULATIONS TO EVERYONE! It has been fully agreed by and between Israel and Iran that there will be a Complete and Total CEASEFIRE (in approximately 6 hours from now, when Israel and Iran have wound down and completed their in progress, final missions!), for 12 hours, at whic",
+     "likes": 108977,
+     "lift_x": 12.62
+    },
+    {
+     "date": "28 Feb 2025",
+     "platform": "Truth Social",
+     "text": "A Statement from President Donald J. Trump\u201cWe had a very meaningful meeting in the White House today. Much was learned that could never be understood without conversation under such fire and pressure. It\u2019s amazing what comes out through emotion, and I have determined that Preside",
+     "likes": 148322,
+     "lift_x": 11.2
+    }
+   ],
+   "bottom": [
+    {
+     "date": "11 Apr 2025",
+     "platform": "Truth Social",
+     "text": "\u2026.Statement from the White House: \u201cPresident Trump and his Administration have entered into an agreement with Cadwalader, Wickersham & Taft, LLP, which voiced their strong commitment to ending the Weaponization of the Justice System and the Legal Profession. The President will no",
+     "likes": 2066,
+     "lift_x": 0.3
+    },
+    {
+     "date": "16 Apr 2026",
+     "platform": "Truth Social",
+     "text": "Congratulations to Taranjit Sandhu on becoming the new Lt Governor of Delhi! As a seasoned Diplomat and former Ambassador to the United States, he has always shown deep commitment to strengthening the U.S.-India relationship. Wishing him success in leading Delhi's progress, and f",
+     "likes": 5270,
+     "lift_x": 0.3
+    },
+    {
+     "date": "03 Nov 2025",
+     "platform": "Truth Social",
+     "text": "Congressman Tom Cole is a Tremendous Champion for Oklahoma's 4th Congressional District! As the Chairman of the POWERFUL House Appropriations Committee, Tom knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, and Champion our Nation's Golden",
+     "likes": 4377,
+     "lift_x": 0.3
+    }
+   ]
+  }
+ },
+ "examples_low_quantile": {
+  "Candidate (2015\u201316)": 0.47,
+  "President, 1st term (2017\u201321)": 0.46,
+  "Out of office (2022\u2013Jan 2025)": 0.59,
+  "President, 2nd term (2025\u201326)": 0.27
+ },
+ "src_rhetoric_lift": [
+  {
+   "src_rhetoric": "Accusation",
+   "size": 3581,
+   "median": 0.3005,
+   "median_lift_x": 1.3505
+  },
+  {
+   "src_rhetoric": "Boast",
+   "size": 1614,
+   "median": 0.3181,
+   "median_lift_x": 1.3745
+  },
+  {
+   "src_rhetoric": "Call to Action",
+   "size": 1321,
+   "median": 0.2014,
+   "median_lift_x": 1.2232
+  },
+  {
+   "src_rhetoric": "Denial",
+   "size": 460,
+   "median": 0.3394,
+   "median_lift_x": 1.4041
+  },
+  {
+   "src_rhetoric": "Insult",
+   "size": 1065,
+   "median": 0.2799,
+   "median_lift_x": 1.323
+  },
+  {
+   "src_rhetoric": "Other",
+   "size": 1159,
+   "median": 0.1194,
+   "median_lift_x": 1.1268
+  },
+  {
+   "src_rhetoric": "Policy Statement",
+   "size": 1174,
+   "median": 0.3493,
+   "median_lift_x": 1.4181
+  },
+  {
+   "src_rhetoric": "Praise",
+   "size": 3466,
+   "median": 0.0348,
+   "median_lift_x": 1.0354
+  },
+  {
+   "src_rhetoric": "Threat",
+   "size": 171,
+   "median": 0.5051,
+   "median_lift_x": 1.6572
+  }
+ ],
+ "label_agreement": [
+  {
+   "src_topic": "Immigration",
+   "lexicon_theme": "Immigration & border",
+   "src_n": 579,
+   "lex_n": 884,
+   "lexicon_recall_of_src": 0.805,
+   "src_recall_of_lexicon": 0.527
+  },
+  {
+   "src_topic": "Economy",
+   "lexicon_theme": "Economy, jobs & prices",
+   "src_n": 1305,
+   "lex_n": 1161,
+   "lexicon_recall_of_src": 0.488,
+   "src_recall_of_lexicon": 0.549
+  },
+  {
+   "src_topic": "Elections",
+   "lexicon_theme": "Elections & fraud claims",
+   "src_n": 3701,
+   "lex_n": 2350,
+   "lexicon_recall_of_src": 0.28,
+   "src_recall_of_lexicon": 0.44
+  },
+  {
+   "src_topic": "Legal",
+   "lexicon_theme": "Legal fights & 'witch hunt'",
+   "src_n": 3014,
+   "lex_n": 2292,
+   "lexicon_recall_of_src": 0.615,
+   "src_recall_of_lexicon": 0.809
+  },
+  {
+   "src_topic": "Media",
+   "lexicon_theme": "Attacks on media",
+   "src_n": 984,
+   "lex_n": 951,
+   "lexicon_recall_of_src": 0.371,
+   "src_recall_of_lexicon": 0.384
+  },
+  {
+   "src_topic": "Foreign Policy",
+   "lexicon_theme": "Foreign policy & war",
+   "src_n": 1127,
+   "lex_n": 1185,
+   "lexicon_recall_of_src": 0.567,
+   "src_recall_of_lexicon": 0.539
+  }
+ ],
+ "src_other_share": 0.141,
+ "unthemed_share": {
+  "Truth Social": 0.27,
+  "Twitter": 0.44
+ },
+ "nicknames": [
+  {
+   "name": "Crooked Hillary",
+   "n": 400,
+   "lift_x": 1.269
+  },
+  {
+   "name": "Sleepy/Crooked Joe",
+   "n": 957,
+   "lift_x": 1.535
+  },
+  {
+   "name": "Lyin' Ted",
+   "n": 26,
+   "lift_x": 1.277
+  },
+  {
+   "name": "Ron DeSanctimonious",
+   "n": 236,
+   "lift_x": 1.207
+  },
+  {
+   "name": "Comrade Kamala",
+   "n": 99,
+   "lift_x": 1.358
+  },
+  {
+   "name": "Fake News",
+   "n": 1299,
+   "lift_x": 1.267
+  }
+ ],
+ "hour": [
+  {
+   "platform": "Truth Social",
+   "hour_et": 0,
+   "n": 885,
+   "lift": 0.0824,
+   "lift_x": 1.0859
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 1,
+   "n": 496,
+   "lift": 0.037,
+   "lift_x": 1.0377
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 2,
+   "n": 149,
+   "lift": 0.1285,
+   "lift_x": 1.1371
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 3,
+   "n": 49,
+   "lift": 0.0113,
+   "lift_x": 1.0114
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 4,
+   "n": 31,
+   "lift": -0.4171,
+   "lift_x": 0.6589
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 5,
+   "n": 122,
+   "lift": -0.2228,
+   "lift_x": 0.8003
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 6,
+   "n": 299,
+   "lift": 0.15,
+   "lift_x": 1.1618
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 7,
+   "n": 774,
+   "lift": 0.181,
+   "lift_x": 1.1984
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 8,
+   "n": 854,
+   "lift": 0.1227,
+   "lift_x": 1.1305
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 9,
+   "n": 1126,
+   "lift": 0.1406,
+   "lift_x": 1.1509
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 10,
+   "n": 1649,
+   "lift": -0.1343,
+   "lift_x": 0.8744
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 11,
+   "n": 2016,
+   "lift": -0.2051,
+   "lift_x": 0.8146
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 12,
+   "n": 1706,
+   "lift": -0.1726,
+   "lift_x": 0.8414
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 13,
+   "n": 1678,
+   "lift": 0.0133,
+   "lift_x": 1.0134
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 14,
+   "n": 1853,
+   "lift": -0.0958,
+   "lift_x": 0.9087
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 15,
+   "n": 1879,
+   "lift": -0.0309,
+   "lift_x": 0.9695
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 16,
+   "n": 1803,
+   "lift": -0.1105,
+   "lift_x": 0.8954
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 17,
+   "n": 1725,
+   "lift": -0.0237,
+   "lift_x": 0.9765
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 18,
+   "n": 1648,
+   "lift": 0.1007,
+   "lift_x": 1.106
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 19,
+   "n": 1386,
+   "lift": 0.0695,
+   "lift_x": 1.072
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 20,
+   "n": 1143,
+   "lift": 0.0127,
+   "lift_x": 1.0127
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 21,
+   "n": 1573,
+   "lift": -0.0363,
+   "lift_x": 0.9644
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 22,
+   "n": 1233,
+   "lift": 0.0384,
+   "lift_x": 1.0392
+  },
+  {
+   "platform": "Truth Social",
+   "hour_et": 23,
+   "n": 1275,
+   "lift": -0.1112,
+   "lift_x": 0.8947
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 0,
+   "n": 425,
+   "lift": 0.0268,
+   "lift_x": 1.0271
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 1,
+   "n": 142,
+   "lift": -0.0826,
+   "lift_x": 0.9207
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 2,
+   "n": 44,
+   "lift": 0.1114,
+   "lift_x": 1.1179
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 3,
+   "n": 26,
+   "lift": 0.2097,
+   "lift_x": 1.2333
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 4,
+   "n": 38,
+   "lift": -0.0721,
+   "lift_x": 0.9304
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 5,
+   "n": 114,
+   "lift": -0.0535,
+   "lift_x": 0.9479
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 6,
+   "n": 858,
+   "lift": 0.0444,
+   "lift_x": 1.0454
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 7,
+   "n": 1524,
+   "lift": 0.0694,
+   "lift_x": 1.0719
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 8,
+   "n": 1835,
+   "lift": 0.0965,
+   "lift_x": 1.1013
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 9,
+   "n": 1545,
+   "lift": 0.0972,
+   "lift_x": 1.1021
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 10,
+   "n": 1351,
+   "lift": 0.1079,
+   "lift_x": 1.1139
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 11,
+   "n": 1013,
+   "lift": -0.0245,
+   "lift_x": 0.9758
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 12,
+   "n": 920,
+   "lift": -0.044,
+   "lift_x": 0.957
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 13,
+   "n": 920,
+   "lift": -0.0646,
+   "lift_x": 0.9375
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 14,
+   "n": 1037,
+   "lift": -0.0385,
+   "lift_x": 0.9622
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 15,
+   "n": 1121,
+   "lift": -0.0623,
+   "lift_x": 0.9396
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 16,
+   "n": 1122,
+   "lift": -0.0152,
+   "lift_x": 0.9849
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 17,
+   "n": 1100,
+   "lift": -0.0073,
+   "lift_x": 0.9927
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 18,
+   "n": 1169,
+   "lift": 0.027,
+   "lift_x": 1.0274
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 19,
+   "n": 939,
+   "lift": -0.0101,
+   "lift_x": 0.99
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 20,
+   "n": 914,
+   "lift": 0.0316,
+   "lift_x": 1.0321
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 21,
+   "n": 981,
+   "lift": -0.0033,
+   "lift_x": 0.9967
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 22,
+   "n": 1028,
+   "lift": 0.0073,
+   "lift_x": 1.0073
+  },
+  {
+   "platform": "Twitter",
+   "hour_et": 23,
+   "n": 742,
+   "lift": 0.0191,
+   "lift_x": 1.0193
+  }
+ ]
+}
